@@ -32,7 +32,7 @@ Permutation: Characters are shuffled according to a fixed P-Box pattern.
 Iteration: This process repeats for 4 rounds, with a final key mixing step to finalize the ciphertext.
 
 # 💻 Tech Stack
-Language: Python 3.x
+Language: Python 3.2
 
 Libraries: random (for S-Box generation)
 
